@@ -67,7 +67,7 @@ services:
     image: linuxserver/transmission
     container_name: transmission
     volumes:
-      - ${SABVOL}/incomplete:/incomplete-downloads
+      - ${DVOL}/incomplete:/incomplete-downloads
       - ${DVOL}/downloads:/downloads
       - ${CVOL}/transmission:/config
       - ${DVOL}/watch:/watch
