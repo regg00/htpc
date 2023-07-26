@@ -1,5 +1,3 @@
-![Stack](/.eraser/xfMkifrLBtIdyb8BkUnb___t2NVDJhO8DYC2968H5wuLk8FNe52___---figure---jdFwSpgYTMGO9mFR8dhfW---figure---p3XwtDueP8KcS-dOOeLCzg.png "Stack")
-
 <img src="./docs/icon.png" height="200">
 
 # htpc
@@ -9,6 +7,10 @@ A HTPC stack built with docker-compose
 ## Why it exists
 
 I got tired of managing multiple HTPC apps. With Docker and Docker Compose, it's easier than ever to create a complete stack or migrate an existing one to a new server.
+
+## Overview
+
+![Stack](/.eraser/xfMkifrLBtIdyb8BkUnb___t2NVDJhO8DYC2968H5wuLk8FNe52___---figure---jdFwSpgYTMGO9mFR8dhfW---figure---p3XwtDueP8KcS-dOOeLCzg.png "Stack")
 
 ## Installing this module
 
